@@ -1,6 +1,6 @@
 [submodule "com.unity.webrtc"]
 	path = com.unity.webrtc
-	url = https://github.com/nhnpro/com.unity.webrtc_wpatches
+	url = https://github.com/nhnpro/com.unity.webrtc_wpatches.git
 [submodule "src"]
 	path = src
 	url = https://github.com/because-why-not/webrtc_visionpro.git
